@@ -1,0 +1,12 @@
+{
+  "name": "surf",
+  "displayName": "surf",
+  "expo": {
+    "name": "surf",
+    "slug": "surf",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
